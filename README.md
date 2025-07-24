@@ -22,8 +22,10 @@ The goal is to track how the emotional state of the protagonist evolves througho
 - Random Forest (+ GridSearchCV)
 
 ### Pretrained Transformers:
-- `cardiffnlp/twitter-roberta-base-emotion`
-- `bhadresh-savani/bert-base-go-emotion`
+- CardiffNLP (twitter-roberta-base-emotion)
+- Bhadresh Savani (distilbert-base-uncased-emotion)
+- J-Hartmann (emotion-english-distilroberta-base)
+- Bertweet (finiteautomata/bertweet-base-emotion-analysis)
 
 ## Visualizations
 
